@@ -127,7 +127,7 @@ A subnet mask is a **32 bits** address used to distinguish between a network add
 </br>
 <p align="center">
   <kbd><img src="img/img_others/subnetmasktable.png" height=350 alt="mask"></kbd>
-  represent network 0 
+      represent network 1 and represent host 0
 </p>
 </br>
 
@@ -142,8 +142,8 @@ Every network has its own unique address, Like here, class B network has network
 Example IP address: 11000001. Here 1st and 2nd bits are 1, and the 3rd bit is 0; hence, it is class C.
 </br>
 <p align="center">
-  <kbd><img src="img/img_others/Subnetting.png" height=250 alt="mask"></kbd>
-  How to identify which class the IP address belongs to
+  <kbd><img src="img/img_others/Subnetting.png" height=450 alt="mask"></kbd>
+      How to identify which class the IP address belongs to
 </p>
 </br>
 Above example shows how IP addresses should be deconstructed, which makes it simple for Internet routers to find the right Network to route data into. However, in a Class A network there could be millions of connected devices, and it could take some time for the router to find the right device.
