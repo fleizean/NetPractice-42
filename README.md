@@ -83,7 +83,7 @@ IP (Internet Protocol), it is defined as a protocol that provides routing of pac
 #### IPv4 vs IPv6
 </br>
 <p align="center">
-  <kbd><img src="img/img_others/IPv4_vs_IPv6.png" height=350 alt="mask"></kbd>
+  <kbd><img src="img/img_others/IPv4vsIPv6.png" height=350 alt="mask"></kbd>
 </p>
 </br>
 
