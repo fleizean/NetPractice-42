@@ -1,5 +1,13 @@
 <h1 style="text-align:center">NetPractice Helper</h1>
 
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/fleizean/NetPractice-42?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/fleizean/NetPractice-42?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/forks/fleizean/NetPractice-42?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/fleizean?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/watchers/fleizean/NetPractice-42?style=for-the-badge"/>
+</p>
+
 ## Guidance
 - [What is NetPractice](#whatis?)
   - [TCP](#TCP)
